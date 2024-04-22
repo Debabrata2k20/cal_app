@@ -1,0 +1,1 @@
+cal_app is a web-based calculator application built on the Django framework. It provides users with a simple yet powerful tool for performing basic arithmetic calculations conveniently from their web browser.
